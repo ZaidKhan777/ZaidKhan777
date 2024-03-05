@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZaidKhan777
-- 👀 I’m interested in Electronics engineering Robbotics and automation 
-- 🌱 I’m currently learning Python and Basic Electronics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Electronics engineering,Robbotics,Artificial intelligence and Nano Electronics 
+- 🌱 I’m currently learning C++,Circuit designing,Machine learning and Matlab
+- 💞️ I’m looking to collaborate on Hands on Electronics projects 
 - 📫 How to reach me My Email:zaidkhan333666999@gmail.com
 
 <!---
