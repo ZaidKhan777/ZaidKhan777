@@ -1,0 +1,6 @@
+Components:
+Breadboard
+Jumping Wires
+Flame sensor
+Buzzer
+Arduino (Uno or Nano)
